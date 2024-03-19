@@ -1,0 +1,30 @@
+
+.container {
+    background-color: pink;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    
+}
+a{
+    text-decoration:none ;
+    background-color: cornflowerblue;
+    
+}
+li{
+    list-style-type: none;
+    display: inline;
+}
+#outer {
+    height: 200px;
+    width: 200px;
+    background-color: pink;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#inner{
+    height: 100px;
+    width: 100px;
+    background-color: red;
+}
